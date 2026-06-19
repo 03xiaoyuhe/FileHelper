@@ -199,4 +199,3 @@ filetidy rule run --name "图片按 EXIF" --apply
 - 规则优先级（`priority` 字段）？
 - 规则测试框架（dry-run on sample）？
 - 规则变量是否需要支持正则提取？
-- 规则触发频率（手动 vs 监听）？

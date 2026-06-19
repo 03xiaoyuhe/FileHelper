@@ -209,7 +209,6 @@ filetidy scan --force-include node_modules/my-lib/
 
 ## 待定问题
 
-- WAL 模式 vs default journal？
 - Windows 路径规范化（`/` vs `\`、长路径、大小写）？
 - glob 库选择（`wcmatch` vs `fnmatch`）？
-- 大 vault 的 hash 缓存大小控制？
+- 大 vault（100k+ 文件）的 hash 缓存大小控制？
