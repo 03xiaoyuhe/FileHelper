@@ -56,3 +56,6 @@ htmlcov/
 .env
 .env.local
 *.secret
+
+# Claude Code local state (per-user, not project config)
+.claude/
