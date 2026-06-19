@@ -89,4 +89,4 @@ filetidy commit revert HEAD
 
 ## License
 
-TBD
+[MIT](LICENSE) © 2026 Terrence Chen
